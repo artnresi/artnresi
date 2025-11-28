@@ -5,7 +5,7 @@ export default function Home() {
         Welcome to Artnresi ✨
       </h1>
       <p className="mt-4 text-lg text-gray-600">
-        Handmade resin crafts, modern and minimalist.
+        resin, reimagined.
       </p>
     </main>
   );
